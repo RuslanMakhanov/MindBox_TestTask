@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B32DC185-851D-413E-8760-E99180882F0B}|ShapeLibrary.Test\\ShapeLibrary.Test.csproj|solutionrelative:shapelibrary.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|c:\\users\\ruslan\\desktop\\c#\\mindbox\\mindbox_testtask\\shapelibrary\\shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|c:\\users\\ruslan\\desktop\\c#\\mindbox\\mindbox_testtask\\shapelibrary\\shapelibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|c:\\users\\ruslan\\desktop\\c#\\mindbox\\mindbox_testtask\\shapelibrary\\shapelibrary\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|c:\\users\\ruslan\\desktop\\c#\\mindbox\\mindbox_testtask\\shapelibrary\\shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5B9ACB6-D194-49CD-B32E-512D8A3F7549}|ShapeLibrary\\ShapeLibrary.csproj|solutionrelative:shapelibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,27 +40,26 @@
               "RelativeDocumentMoniker": "ShapeLibrary.Test\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary.Test\\UnitTest1.cs",
               "RelativeToolTip": "ShapeLibrary.Test\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T16:04:03.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\Triangle.cs",
               "RelativeDocumentMoniker": "ShapeLibrary\\Triangle.cs",
               "ToolTip": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\Triangle.cs",
               "RelativeToolTip": "ShapeLibrary\\Triangle.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswC0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:55:58.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:55:58.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\Circle.cs",
               "RelativeDocumentMoniker": "ShapeLibrary\\Circle.cs",
@@ -68,31 +67,29 @@
               "RelativeToolTip": "ShapeLibrary\\Circle.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:55:16.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:55:16.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IShape.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\IShape.cs",
               "RelativeDocumentMoniker": "ShapeLibrary\\IShape.cs",
               "ToolTip": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\IShape.cs",
               "RelativeToolTip": "ShapeLibrary\\IShape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T15:54:29.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T15:54:29.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\Program.cs",
               "RelativeDocumentMoniker": "ShapeLibrary\\Program.cs",
               "ToolTip": "C:\\Users\\Ruslan\\Desktop\\c#\\MindBox\\MindBox_TestTask\\ShapeLibrary\\ShapeLibrary\\Program.cs",
               "RelativeToolTip": "ShapeLibrary\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T15:53:22.202Z",
               "EditorCaption": ""

@@ -10,6 +10,15 @@ namespace ShapeLibrary
     {
         static void Main(string[] args)
         {
+            var circle = new Circle(5);
+            var triangle = new Triangle(3, 4, 5);
+
+            double circleArea = ShapeCalculator.GetArea(circle);
+            double triangleArea = ShapeCalculator.GetArea(triangle);
+
+            Console.WriteLine($"Circle Area: {circleArea}");
+            Console.WriteLine($"Triangle Area: {triangleArea}");
+            Console.ReadKey();
         }
     }
 }

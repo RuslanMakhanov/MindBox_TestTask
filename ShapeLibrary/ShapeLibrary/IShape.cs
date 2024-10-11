@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 
 namespace ShapeLibrary
 {
-    internal interface IShape
+   public interface IShape
     {    
         double CalculateArea();        
+    }
+    public class ShapeCalculator
+    {
+        public static double GetArea(IShape shape)
+        {
+            return shape.CalculateArea();
+        }
     }
 }
